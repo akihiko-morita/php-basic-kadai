@@ -21,7 +21,7 @@
                            'score10' => 60);
 
             // $sumはここで初期値を入れてないとundefinedの警告が出る
-            $sum = 0;
+            $sum;
             $ave;
 
             foreach($score as $data){
