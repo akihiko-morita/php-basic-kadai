@@ -3,7 +3,7 @@
  
  <head>
      <meta charset="UTF-8">
-     <title>PHP課題005</title>
+     <title>PHP課題015</title>
  </head>
  
  <body>
